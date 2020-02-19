@@ -1,0 +1,23 @@
+interactive: false
+check_head_position: false
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 1 Rojo 3 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 4 Rojo 3 
+     head 0 0
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Rojo 5 Negro 1 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 6 Rojo 5 
+     head 0 0
