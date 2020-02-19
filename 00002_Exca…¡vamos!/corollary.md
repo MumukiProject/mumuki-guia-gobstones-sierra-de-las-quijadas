@@ -1,0 +1,1 @@
+¡Aparecieron los huesos! Pero están un poco sucios :sweat_smile:. Eso es porque estuvieron enterrados por millones y millones de años :scream:. ¡Vamos a limpiarlos!
