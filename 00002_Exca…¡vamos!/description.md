@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-sierra-de-las-quijadas/master/assets/attires/config_1582136595951.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-sierra-de-las-quijadas/master/assets/attires/config_1582215334761.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-brazos-roboticos/master/assets/toolbox_1581090983723.xml"></gs-toolbox>
 
